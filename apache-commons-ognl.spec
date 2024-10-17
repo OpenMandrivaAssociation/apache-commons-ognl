@@ -8,7 +8,7 @@ Summary:        Object Graph Navigation Library
 
 
 License:        ASL 2.0
-URL:            http://commons.apache.org/ognl/
+URL:            https://commons.apache.org/ognl/
 # svn export -r1102435 http://svn.apache.org/repos/asf/commons/proper/ognl/trunk/ apache-commons-ognl-3.0.2
 # tar caf apache-commons-ognl-3.0.2.tar.xz apache-commons-ognl-3.0.2
 Source0:        %{name}-%{version}.tar.xz
